@@ -6,9 +6,9 @@
 
 ### 5 - [SwitchDemo](https://github.com/anliux/JavaSE_code_BXD33/blob/master/day03/SwitchDemo.java)：switch语句演示
 
-### 6 - [WhileDemo](https://github.com/anliux/JavaSE_code_BXD33/blob/master/day03/WhileDemo.java):while语句演示 
-### 7 - [WhileTest](https://github.com/anliux/JavaSE_code_BXD33/blob/master/day03/WhileTest.java): 关于while的两个需求-显示1-10；求1-100的和。
-### 8 - [DoWhileDemo](https://github.com/anliux/JavaSE_code_BXD33/blob/master/day03/DoWhileDemo.java):do while语句演示。循环体至少执行一次。
+### 6 - [WhileDemo](https://github.com/anliux/JavaSE_code_BXD33/blob/master/day03/WhileDemo.java)：while语句演示 
+### 7 - [WhileTest](https://github.com/anliux/JavaSE_code_BXD33/blob/master/day03/WhileTest.java)：关于while的两个需求-显示1-10；求1-100的和。
+### 8 - [DoWhileDemo](https://github.com/anliux/JavaSE_code_BXD33/blob/master/day03/DoWhileDemo.java)：do while语句演示。循环体至少执行一次。
 
 ### 9 - [ForDemo](https://github.com/anliux/JavaSE_code_BXD33/blob/master/day03/ForDemo.java)：for与while的联系与区别。
 ### 10 - [ForTest](https://github.com/anliux/JavaSE_code_BXD33/blob/master/day03/ForTest.java)：for循环练习，获取1-100之间6的倍数。
