@@ -85,11 +85,3 @@ class DuoTaiDemo3
 		Zi.method();
 	}
 }
-
-
-
-
-
-
-
-
