@@ -132,7 +132,3 @@ class Worker extends Person
 		super(name,age);
 	}
 }
-
-
-
-
