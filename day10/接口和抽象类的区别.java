@@ -72,19 +72,6 @@ interface 报警
 {
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 class  
 {
 	public static void main(String[] args) 
