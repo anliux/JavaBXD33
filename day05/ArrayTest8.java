@@ -21,17 +21,20 @@ class ArrayTest8
 		System.out.println(Integer.toHexString(60));
 	}
 
+
 	//十进制-->十六进制
 	public static String toHex(int num)
 	{
 		return "0x"+trans(num, 15, 4);
 	}
 
+
 	//十进制-->二进制
 	public static String toBinary(int num)
 	{
 		return trans(num, 1, 1);
 	}
+
 
 	//十进制-->八进制
 	public static String toOctal(int num)
@@ -75,6 +78,7 @@ class ArrayTest8
 	
 	}
 
+
 	//定义一个功能，将字符数组转成字符串。
 	public static String toString(char[] arr, int index)
 	{
@@ -85,7 +89,6 @@ class ArrayTest8
 			temp = temp + arr[x];
 		}
 
-		return temp;
-	
+		return temp;	
 	}
 }
