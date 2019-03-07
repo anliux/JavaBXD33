@@ -1,11 +1,12 @@
 /*
+
 Object类中的常用方法。
 
 Object类是所有类的根类，定义了所有对象都具备的功能。
 API（应用程序接口）文档
 
-
 */
+
 class Person extends Object
 {
 	private int age;
@@ -13,6 +14,7 @@ class Person extends Object
 	{
 		this.age = age;		
 	}
+	
 	//判断是否是同龄人。这个方法也是在比较两个person对象是否相等。
 	//注意：Person类中是否有比较两个Person对象相等的方法？有的。因为继承Object，它本身就具备这equals方法。
 	//既然有，还需要定义compare方法吗？不需要。
@@ -24,6 +26,7 @@ class Person extends Object
 	【记住：以后判断对象是否相同，就需要覆盖equals方法。】
 	
 	*/
+	
 	public boolean equals(Object obj)//Object obj = new Person(); obj.age;上帝中没有年龄
 	{
 		//建立Person自己的判断相同的依据。判断年龄是否相同。
@@ -58,13 +61,11 @@ class Person extends Object
 		//return "haha";
 		return "Person[age = "+age+"]";
 	}
-	
-
-
-
 }
+
 class Dog
 {
+	
 }
 
 class ObjectDemo 
