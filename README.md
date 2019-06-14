@@ -22,7 +22,7 @@
 | __JDK-新特性__ |  |
 
 ## 笔记
-- 01-[Java基础知识]()
+- 01-[Java基础知识](https://github.com/anliux/JavaSE-code-BXD33/blob/master/docs/notes/01.md)
 - 02-[Java对象细节]()
 - 03-[Java中的异常和包的使用]()
 - 04-[Java中的多线程]()
@@ -36,3 +36,5 @@
 - 12-[网页布局、JavaScript]()
 - 13-[JavaScript和DOM技术结合、实现各种网页常见效果]()
 - 14-[JDK-新特性]()
+
+### 未完待续...
