@@ -29,7 +29,7 @@ class VarDemo2
 
 		//char类型运算
 
-		char ch = 97;//97是二进制，自动去查表找到a
+		char ch = 97;//97在char范围内（2字节），自动去查表找到a
 		System.out.println("ch="+ch);
 
 		char ch2 = 'a';
@@ -38,6 +38,7 @@ class VarDemo2
 		char ch3 = 'a';
 		System.out.println("ch3="+(ch3+1));
 		//char占2字节，1是整数int型占4字节，自动类型提升为int型，输出98
+		//（int型超出char范围了，故作为int型输出，而不再去查表）
 
 		char ch4 = 'a';
 		System.out.println("ch4="+(char)(ch4+1));//强制类型转换为char型
