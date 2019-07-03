@@ -23,7 +23,7 @@
 
 ## 笔记
 - 01-[Java基础知识](https://github.com/anliux/JavaBXD33/blob/master/docs/notes/01.md)
-- 02-[Java对象细节]()
+- 02-[Java对象细节](https://github.com/anliux/JavaBXD33/blob/master/docs/notes/02.md)
 - 03-[Java中的异常和包的使用]()
 - 04-[Java中的多线程]()
 - 05-[String类和JDK5]()
