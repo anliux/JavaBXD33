@@ -6,8 +6,8 @@
 
 | Day | Title |
 | :-------------: | ------------- |
-| __day01-05__ | __Java基础知识__ -- _字词句、Java版计算器_ |
-| __day06-11__ | __Java对象细节__ -- _面向对象、对象与类、封装、继承、多态、简化代码_ |
+| __day01-05__ | __[Java基础知识](https://github.com/anliux/JavaBXD33/blob/master/docs/notes/01.md)__ -- _字词句、Java版计算器_ |
+| __day06-11__ | __[Java对象细节](https://github.com/anliux/JavaBXD33/blob/master/docs/notes/02.md)__ -- _面向对象、对象与类、封装、继承、多态、简化代码_ |
 | __day12-13__ | __Java中的异常和包的使用__ |
 | __day14-16__ | __Java中的多线程__ -- _多生产多消费、人妖问题、eclipse_ |
 | __day17-18__ | __String类和JDK5__ |
