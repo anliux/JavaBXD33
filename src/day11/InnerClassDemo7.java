@@ -7,7 +7,7 @@ interface Inter
 
 class Outer
 {
-	//代码不足。要求使用匿名内部类。
+	//代码补足。要求使用匿名内部类。
 	public static Inter method()
 	{
 		//既然Outer类总使用到了Inter的对象，可以使用内部类来完成
