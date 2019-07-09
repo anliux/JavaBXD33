@@ -10,7 +10,7 @@ class Outer
 	//代码补足。要求使用匿名内部类。
 	public static Inter method()
 	{
-		//既然Outer类总使用到了Inter的对象，可以使用内部类来完成
+		//既然Outer类中使用到了Inter的对象，可以使用内部类来完成
 		//需要子类型，只要简化格式即可，因为接口中就只有一个方法
 		return new Inter()
 		{
