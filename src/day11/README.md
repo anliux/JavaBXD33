@@ -4,4 +4,7 @@
 4 - InnerClassDemo4：内部类-内部类的继承或者实现，内部类对象对外提供功能的访问方式。
 5 - InnerClassDemo5：内部类-匿名内部类。
 6 - InnerClassDemo6：内部类-匿名内部类的使用。
-6 - InnerClassDemo7：内部类-匿名内部类的练习。
+7 - InnerClassDemo7：内部类-匿名内部类的练习。
+8 - ExceptionDemo：异常-异常和错误的发生和区别。
+9 - ExceptionDemo2：异常-异常发生的过程。
+10 - ExceptionDemo3：异常-异常的简单应用。
