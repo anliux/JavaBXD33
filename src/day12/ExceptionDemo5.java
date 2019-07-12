@@ -52,7 +52,9 @@ Exception in thread "main" NoAgeException: -20，年龄数值非法
 */
 
 //自定义异常：描述Person的年龄数值非法
-//只要是本项目的Person的年龄出现非法值，就会发生该异常。
+/**
+只要是本项目的Person的年龄出现非法值，就会发生该异常。
+*/
 class NoAgeException extends RuntimeException
 {
 	//为什么定义构造函数？因为看到java中的异常描述类中有提供对问题对象的初始化方法。
