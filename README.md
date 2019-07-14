@@ -44,8 +44,6 @@
 - [src-按照"dayxx"分类](https://github.com/anliux/JavaBXD33/tree/master/src)
 
 ## API文档
-- []()
-- []()
-- []()
+- [API文档-内含1.6中文版及1.8中英文版](https://github.com/anliux/JavaBXD33/tree/master/docs/apiDoc)
 
 ### 未完待续...
