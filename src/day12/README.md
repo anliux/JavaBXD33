@@ -3,5 +3,7 @@
 3 - ExceptionDemo5：异常-异常的自定义&体系&问题及解决方法。
 4 - ExceptionDemo6：异常-编译时的异常和运行时的异常的区别。
 5 - ExceptionDemo7：异常-声明和捕获。
-
-
+6 - ExceptionDemo8：异常-声明和捕获在例子中的应用。
+7 - ExceptionTest：运行时异常的应用（矩形长和宽的数值非法）
+8 - ExceptionTest2：案例中的编译时异常的应用（电脑蓝屏），异常的转换（电脑蓝屏+冒烟）
+9 - throw和throws的区别：throw和throws的区别
