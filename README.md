@@ -8,8 +8,8 @@
 | :-------------: | ------------- |
 | __day01-05__ | __[Java基础知识](https://github.com/anliux/JavaBXD33/blob/master/docs/notes/01.md)__ -- _字词句、Java版计算器_ |
 | __day06-11__ | __[Java对象细节](https://github.com/anliux/JavaBXD33/blob/master/docs/notes/02.md)__ -- _面向对象、对象与类、封装、继承、多态、简化代码_ |
-| __day12-13__ | __Java中的异常和包的使用__ |
-| __day14-16__ | __Java中的多线程__ -- _多生产多消费、人妖问题、eclipse_ |
+| __day12-13__ | __[Java中的异常和包的使用](https://github.com/anliux/JavaBXD33/blob/master/docs/notes/03.md)__ |
+| __day14-16__ | __[Java中的多线程](https://github.com/anliux/JavaBXD33/blob/master/docs/notes/04.md)__ -- _多生产多消费、人妖问题、eclipse_ |
 | __day17-18__ | __String类和JDK5__ |
 | __day19-21__ | __Java中各种集合容器的使用__ -- _学生信息管理_ |
 | __day22-26__ | __Java中的IO操作、时间文件切合和合并__ |
@@ -24,8 +24,8 @@
 ## 笔记
 - 01-[Java基础知识](https://github.com/anliux/JavaBXD33/blob/master/docs/notes/01.md)
 - 02-[Java对象细节](https://github.com/anliux/JavaBXD33/blob/master/docs/notes/02.md)
-- 03-[Java中的异常和包的使用]()
-- 04-[Java中的多线程]()
+- 03-[Java中的异常和包的使用](https://github.com/anliux/JavaBXD33/blob/master/docs/notes/03.md)
+- 04-[Java中的多线程](https://github.com/anliux/JavaBXD33/blob/master/docs/notes/04.md)
 - 05-[String类和JDK5]()
 - 06-[Java中各种集合容器的使用]()
 - 07-[Java中的IO操作、时间文件切合和合并]()
@@ -44,8 +44,6 @@
 - [src-按照"dayxx"分类](https://github.com/anliux/JavaBXD33/tree/master/src)
 
 ## API文档
-- []()
-- []()
-- []()
+- [API文档-内含1.6中文版及1.8中英文版](https://github.com/anliux/JavaBXD33/tree/master/docs/apiDoc)
 
 ### 未完待续...
