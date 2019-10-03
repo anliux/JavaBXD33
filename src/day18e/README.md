@@ -4,3 +4,5 @@
 4 - WrapperDemo：基本数据类型对象包装类的概述、解析、转换
 5 - WrapperDemo2：自动装箱拆箱
 6 - WrapperTest：综合练习
+7 - Test18：集合collection引入
+8 - CollectionDemo：集合基本方法演示

@@ -1,4 +1,4 @@
-package cn.itcast.api.wrapper.demo;
+package cn.itcast.api.wrapper;
 
 import java.util.Arrays;
 
