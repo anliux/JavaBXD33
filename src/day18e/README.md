@@ -5,4 +5,9 @@
 5 - WrapperDemo2：自动装箱拆箱
 6 - WrapperTest：综合练习
 7 - Test18：集合collection引入
-8 - CollectionDemo：集合基本方法演示
+8 - CollectionDemo：集合基本方法演示，带All的方法
+9 - IteratorDemo：迭代原理，代码体现
+10 - CollectionDemo2：集合使用的细节
+11 - CollectionTest和Student：集合的重复概念
+12 - ListDemo：list接口
+

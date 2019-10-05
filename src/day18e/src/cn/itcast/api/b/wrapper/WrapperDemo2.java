@@ -1,4 +1,4 @@
-package cn.itcast.api.wrapper;
+package cn.itcast.api.b.wrapper;
 
 public class WrapperDemo2 {
 

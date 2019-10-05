@@ -1,4 +1,4 @@
-package cn.itcast.api.string.test;
+package cn.itcast.api.a.string.test;
 
 public class StringTest_1 {
 
