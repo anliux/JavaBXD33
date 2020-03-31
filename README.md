@@ -47,3 +47,7 @@
 - [API文档-内含1.6中文版及1.8中英文版](https://github.com/anliux/JavaBXD33/tree/master/docs/apiDoc)
 
 ### 未完待续...
+
+
+https://github.com/anliux/JavaBXD33/edit/master/README.md
+`<div align=center><img src="https://github.com/Legend-yd/MyDawn/blob/master/20171223205540585.png" width="300" height="450" /></div>`
