@@ -51,8 +51,11 @@
 https://github.com/anliux/JavaBXD33/blob/master/01_arr2Memory1.jpg
 
 <div align=center><img src="https://github.com/anliux/JavaBXD33/blob/master/docs/images/01_arr2Memory1.jpg?raw=true" width="300" height="450" /></div>
+
 <div align=center><img src="https://raw.githubusercontent.com/anliux/JavaBXD33/master/docs/images/01_arr2Memory1.jpg
 " width="300" height="450" /></div>
+
+![text](https://raw.githubusercontent.com/anliux/JavaBXD33/master/docs/images/01_arr2Memory1.jpg)
 
 https://github.com/anliux/JavaBXD33/blob/master/docs/images/01_arr2Memory1.jpg?raw=true
 https://raw.githubusercontent.com/anliux/JavaBXD33/master/docs/images/01_arr2Memory1.jpg
